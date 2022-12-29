@@ -20,6 +20,8 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
+// test commit
+
 app.MapControllers();
 
 app.Run();
